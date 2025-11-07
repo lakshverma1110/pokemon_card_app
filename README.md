@@ -32,4 +32,6 @@ Users can browse Pokémon cards in a list view, and tap on any card to see an en
    git clone https://github.com/lakshverma1110/pokemon_card_app.git
    cd pokemon_card_app
 
+## Sometimes the API does not response properly so please refresh the page.
+
 ---
