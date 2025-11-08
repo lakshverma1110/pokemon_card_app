@@ -31,7 +31,13 @@ Users can browse Pokémon cards in a list view, and tap on any card to see an en
    ```bash
    git clone https://github.com/lakshverma1110/pokemon_card_app.git
    cd pokemon_card_app
+   flutter pub get
+   flutter run -d chrome
+   flutter build web
+💡 Notes
 
-## Sometimes the API does not response properly so please refresh the page.
+## Notes
+1. Some parts of the code and setup instructions were generated or improved with the help of AI (ChatGPT) to speed up development and troubleshooting. The final structure, design choices, and implementation were reviewed and customized manually.
+2. Sometimes the API does not response properly so please refresh the page.
 
 ---
